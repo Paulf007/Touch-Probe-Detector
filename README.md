@@ -1,4 +1,4 @@
-# Touch-Probe-Detector
+# Arduino Nano Touch-Probe-Detector
 Use to detect a touch down - measure the change in resistance..
 
 Operation :
